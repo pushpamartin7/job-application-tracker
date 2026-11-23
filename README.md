@@ -60,7 +60,7 @@ Example `.env` configuration:
 
 ```env
 DB_HOST=localhost
-DB_USER=your_username
+DB_USER=my_username
 DB_PASSWORD=mysql_password
 DB_NAME=job_tracker_db
 ```
